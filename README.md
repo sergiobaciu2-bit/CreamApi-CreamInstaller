@@ -85,7 +85,7 @@ games and DLCs the user selects; however, through the use of **right-click conte
 
 ---
 #### Installation:
-1. Download the latest release from [GitHub Releases](https://github.com/ubden-community/CreamApi-CreamInstaller/releases/latest).
+1. Download the latest release from [GitHub Releases](https://github.com/ubden/CreamApi-CreamInstaller/releases/latest).
 2. Extract `CreamInstaller.exe` to anywhere on your computer. *It's completely self-contained.*
 
 If the program doesn't launch, install the [.NET 9 Desktop Runtime (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
@@ -115,7 +115,7 @@ To build the project from source code, you need:
 
 ---
 ##### Bugs/Crashes/Issues:
-For reliable and quick assistance, all bugs, crashes and other issues should be referred to the [GitHub Issues](https://github.com/ubden-community/CreamApi-CreamInstaller/issues) page!
+For reliable and quick assistance, all bugs, crashes and other issues should be referred to the [GitHub Issues](https://github.com/ubden/CreamApi-CreamInstaller/issues) page!
 
 > ⚠️ **No official support is provided.** For community help visit:
 > - [GitHub Discussions](https://github.com/ubden/CreamApi-CreamInstaller/discussions)
